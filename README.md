@@ -1,3 +1,1 @@
-# sfowe
-tutaj walczymy z przeciwnościami losu
-jak to czytasz to jest lepiej
+Zadanie 1 z listy 8 z PWI.
